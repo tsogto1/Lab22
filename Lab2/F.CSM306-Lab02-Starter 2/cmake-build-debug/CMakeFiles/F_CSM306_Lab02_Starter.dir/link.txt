@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/F_CSM306_Lab02_Starter.dir/link.d CMakeFiles/F_CSM306_Lab02_Starter.dir/main.cpp.o CMakeFiles/F_CSM306_Lab02_Starter.dir/tasksys.cpp.o -o F_CSM306_Lab02_Starter

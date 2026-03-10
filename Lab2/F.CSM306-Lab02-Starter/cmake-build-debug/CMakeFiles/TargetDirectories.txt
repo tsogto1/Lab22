@@ -1,0 +1,3 @@
+/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/cmake-build-debug/CMakeFiles/F_CSM306_Lab02_Starter.dir
+/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/F_CSM306_Lab02_Starter.dir/main.cpp.o -c /home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/main.cpp",
+  "file": "/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/main.cpp",
+  "output": "CMakeFiles/F_CSM306_Lab02_Starter.dir/main.cpp.o"
+},
+{
+  "directory": "/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/F_CSM306_Lab02_Starter.dir/tasksys.cpp.o -c /home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/tasksys.cpp",
+  "file": "/home/tsogto/Documents/F.CSM306/Lab2/F.CSM306-Lab02-Starter/tasksys.cpp",
+  "output": "CMakeFiles/F_CSM306_Lab02_Starter.dir/tasksys.cpp.o"
+}
+]
